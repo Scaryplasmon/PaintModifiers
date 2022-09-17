@@ -16,5 +16,6 @@ Cool thing about this workflow it's that it's totally non-Destructive (you can d
 
 You can Keep stacking up your Modifiers and alter them later.
 
+See the Image References on https://scaryplasmon.gumroad.com/l/PaintModifiers
 
 Hope it Helps, happy Bl :)
